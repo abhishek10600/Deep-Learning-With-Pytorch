@@ -1,1 +1,1 @@
-# Lerning Deep Learning With Pytorch
+# Deep Learning With Pytorch
